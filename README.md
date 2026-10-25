@@ -300,25 +300,6 @@ A presença de um hash de senha, por si só, não garante a segurança completa 
 
 ---
 
-## 🗺️ Melhorias futuras
-
-Algumas funcionalidades que podem ser adicionadas ao projeto:
-
-- [ ] Tela de cadastro com validações mais completas.
-- [ ] Melhorias visuais na interface.
-- [ ] Botão para exibir ou ocultar a senha.
-- [ ] Recuperação de acesso.
-- [ ] Bloqueio temporário após tentativas de login malsucedidas.
-- [ ] Pesquisa e filtros no extrato.
-- [ ] Exportação do extrato para CSV ou PDF.
-- [ ] Testes automatizados das operações bancárias.
-- [ ] Separação de configurações e regras de negócio.
-- [ ] Empacotamento da aplicação para Windows.
-- [ ] Registro de logs e auditoria.
-- [ ] Migração futura para uma API REST com Django ou FastAPI.
-
----
-
 ## 📚 Objetivos de aprendizagem
 
 Este projeto foi desenvolvido para praticar:
