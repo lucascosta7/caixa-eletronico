@@ -110,16 +110,14 @@ O projeto foi desenvolvido e testado em ambiente Windows com Python 3.14.
 
 ### 1. Clone o repositório
 
-Substitua `SEU_USUARIO` e `SEU_REPOSITORIO` pelos dados do seu repositório no GitHub.
-
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/SEU_USUARIO/caixa-eletronico.git
 ```
 
 Entre na pasta do projeto:
 
 ```bash
-cd SEU_REPOSITORIO
+cd caixa-eletronico
 ```
 
 ### 2. Crie um ambiente virtual
@@ -343,9 +341,7 @@ Este projeto foi desenvolvido para praticar:
 
 Projeto desenvolvido para fins de estudo e prática de desenvolvimento de software com Python.
 
-- GitHub: [Acesse meu perfil](https://github.com/SEU_USUARIO)
-
-Substitua `SEU_USUARIO` pelo seu nome de usuário real do GitHub.
+- GitHub: [Acesse meu perfil](https://github.com/lucascosta7)
 
 ---
 
